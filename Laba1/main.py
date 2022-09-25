@@ -2,6 +2,7 @@ height = float(input())
 weight = float(input())
 steps = int(input())
 time = float(input())
+
 step = height/4+0.37
 distance = steps*step
 V = distance/time
